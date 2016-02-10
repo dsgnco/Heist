@@ -1,5 +1,7 @@
 # HEiST
 
+![Alt text](heist-thumb.jpg?raw=true "HEiST - Font Download by DSGN.CO")
+
 A font Made by DSGN.CO
 HEiST is free for personal use.
 
